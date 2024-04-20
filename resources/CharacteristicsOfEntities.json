@@ -1,0 +1,104 @@
+{
+  "Wolf" : {
+    "weight" : 50.0,
+    "maxCountSpeciesCell" : 30,
+    "movementSpeed" : 3,
+    "gOfFoodForSaturation" : 8.0
+  },
+  "Boa" : {
+    "weight" : 15.0,
+    "maxCountSpeciesCell" : 30,
+    "movementSpeed" : 1,
+    "gOfFoodForSaturation" : 3.0
+  },
+  "Fox" : {
+    "weight" : 8.0,
+    "maxCountSpeciesCell" : 30,
+    "movementSpeed" : 2,
+    "gOfFoodForSaturation" : 2.0
+  },
+  "Bear" : {
+    "weight" : 500.0,
+    "maxCountSpeciesCell" : 5,
+    "movementSpeed" : 2,
+    "gOfFoodForSaturation" : 80.0
+  },
+  "Eagle" : {
+    "weight" : 6.0,
+    "maxCountSpeciesCell" : 20,
+    "movementSpeed" : 3,
+    "gOfFoodForSaturation" : 1.0
+  },
+  "Horse" : {
+    "weight" : 400.0,
+    "maxCountSpeciesCell" : 20,
+    "movementSpeed" : 4,
+    "gOfFoodForSaturation" : 50.0
+  },
+  "Dear" : {
+    "weight" : 300.0,
+    "maxCountSpeciesCell" : 20,
+    "movementSpeed" : 4,
+    "gOfFoodForSaturation" : 50.0
+  },
+  "Rabbit" : {
+    "weight" : 2.0,
+    "maxCountSpeciesCell" : 150,
+    "movementSpeed" : 2,
+    "gOfFoodForSaturation" : 0.45
+  },
+  "Mouse" : {
+    "weight" : 0.05,
+    "maxCountSpeciesCell" : 500,
+    "movementSpeed" : 1,
+    "gOfFoodForSaturation" : 0.01
+  },
+  "Goat" : {
+    "weight" : 60.0,
+    "maxCountSpeciesCell" : 140,
+    "movementSpeed" : 3,
+    "gOfFoodForSaturation" : 10.0
+  },
+  "Sheep" : {
+    "weight" : 70.0,
+    "maxCountSpeciesCell" : 140,
+    "movementSpeed" : 3,
+    "gOfFoodForSaturation" : 15.0
+  },
+  "Boar" : {
+    "weight" : 40.0,
+    "maxCountSpeciesCell" : 50,
+    "movementSpeed" : 2,
+    "gOfFoodForSaturation" : 50.0
+  },
+  "Buffalo" : {
+    "weight" : 700.0,
+    "maxCountSpeciesCell" : 10,
+    "movementSpeed" : 3,
+    "gOfFoodForSaturation" : 100.0
+  },
+  "Duck" : {
+    "weight" : 1.0,
+    "maxCountSpeciesCell" : 200,
+    "movementSpeed" : 4,
+    "gOfFoodForSaturation" : 0.15
+  },
+  "Caterpillar" : {
+    "weight" : 0.01,
+    "maxCountSpeciesCell" : 1000,
+    "movementSpeed" : 0,
+    "gOfFoodForSaturation" : 0.0
+  },
+  "Grass" : {
+    "weight" : 1.0,
+    "maxCountSpeciesCell" : 200,
+    "movementSpeed" : null,
+    "gOfFoodForSaturation" : null
+  },
+  "Dragon" : {
+    "weight" : 1000.0,
+    "maxCountSpeciesCell" : 1,
+    "movementSpeed" : 20,
+    "gOfFoodForSaturation" : 100.0
+  }
+}
